@@ -1,0 +1,13 @@
+# Internal tooling directories
+.omo/
+.playwright-mcp/
+.serena/
+
+# Vercel deployment artifacts (generated at deploy time)
+.vercel
+
+# Dependency / runtime caches (none in this static project, but keep for future-proofing)
+node_modules/
+
+# OS generated files
+.DS_Store
